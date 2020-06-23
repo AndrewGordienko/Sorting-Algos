@@ -1,3 +1,5 @@
+#This is my attempt at coding a bubble sort algo with as little built in python functions as possible :)
+
 ourlist = [2, 4, 3, 1, 5]
 
 def ordered(ourlist):
